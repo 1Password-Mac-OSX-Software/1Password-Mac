@@ -1,6 +1,6 @@
 # 1Password Mac Families Subscription
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQxY8r_syyFzRnFOoLOJf3qFv8__11S5wHQ&s" width="200" alt="App icon" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/1Password_icon.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>1Password for macOS</h3>
